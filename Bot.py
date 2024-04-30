@@ -1,3 +1,4 @@
+//Комментарий
 from aiogram import executor, types, Bot, Dispatcher
 
 token = '7066702701:AAFbr0iviTtnLDcFmd4asckiyNc6o9CQxxE'
@@ -15,4 +16,5 @@ async def echo_handler(message: types.Message):
 
 if __name__ == '__main__':
     executor.start_polling(dp)
-   // ЭТО МАКСИМ И Я РЕШАЮ ПРОБЛЕМЫ
+    
+ // ЭТО МАКСИМ И Я РЕШАЮ ПРОБЛЕМЫ
