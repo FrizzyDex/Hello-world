@@ -1,3 +1,4 @@
+//Комментарий
 from aiogram import executor, types, Bot, Dispatcher
 
 token = '7066702701:AAFbr0iviTtnLDcFmd4asckiyNc6o9CQxxE'
