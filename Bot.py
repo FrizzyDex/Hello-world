@@ -16,3 +16,5 @@ async def echo_handler(message: types.Message):
 
 if __name__ == '__main__':
     executor.start_polling(dp)
+    
+ // ЭТО МАКСИМ И Я РЕШАЮ ПРОБЛЕМЫ
